@@ -12,6 +12,10 @@
 
 [Share Everything](https://www.icloud.com/shortcuts/84b00b19dc0545b296e4c8876c2b4fbd) - Allows you to share images, files, text/urls, and other shortcuts with a qr code! Rudimentary encryption.
 
-[Open mutiple links](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You dont have to remove any text, since it automatically filters it out.
+[Open mutiple links](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You dont have to remove any text, since it automatically filters for links.
 
 [Cards against school](https://www.icloud.com/shortcuts/57fc3d81547f4e8bbe27c7313aaa3b64) - A recreation of cards against humanity. Requires 3 or more plays, and 1 ipad to pass around. Thousands of white cards and hundreds of black cards.
+
+[Replacement cipher](https://www.icloud.com/shortcuts/57fc3d81547f4e8bbe27c7313aaa3b64) -A very simple cipher. Requiring a key that is 26 symbol letters long and doesnt repest letters. 
+
+[Web searching without history](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You can search google or open urls without it being logged to history. Might still be logged in GoGaurdian or such, testing needed.
