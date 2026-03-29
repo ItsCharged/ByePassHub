@@ -1,11 +1,10 @@
-# ByePassHub > Games | updated Nov 7
-## If you like this list, make sure to star it!
-This is a collection of links of ONLY games, no unblockers just games.  <br>
-Including ROBLOX, and multiple game hubs <br>
+# ByePassHub > Games | updated March 28
+
 > [!WARNING]
 > This is outdated.
-## I highly recommend checking out the [mainUnblockers](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) page instead of this one. It includes the most updated links that have many games!!!
-
+## I highly recommend checking out the [mainUnblockers](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) page instead of this one. It includes the most updated links that have many games!!! But, this page still has some working ones, like Minecraft and Roblox.
+<br> <br>
+---
 SPOTLIGHT (from November 7th Update)
 ### 1346
 https://thirteenfo.netlify.app/ <br>
