@@ -11,14 +11,13 @@ This files includes a guide on how to make your own unblockers! You can do this 
 + [Deploying via Render](#make-links-with-render)
  #### (COMING SOON) Deploying with billigerhost and more!?!?!
 
- ### Other files:
-**Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Exploits/README.md) <br>
-**Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file. <br>
-**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or to the games.md file<br>
+**Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
+**Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
+**Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
-**Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or to the movies&anime.md file <br>
-**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
-
+**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
+**Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 ---
 
 ### Making links via freeDNS
