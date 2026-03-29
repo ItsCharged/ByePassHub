@@ -6,14 +6,16 @@
 ---
 This is a collection of lnks of proxies, playtime, AI, and apps. <br>
 
-**Other files:** <br>
-**Main Playtime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Playtime.md) or to the playtime.md file<br>
+***Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
+**Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
+**Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
-**Making your own releaser lnk:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnlnk.md) or go to the MakeYourOwnlnk.md file. <br>
-**Released Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/ReleasedSearchEngines.md) or go to the ReleasedSearchEngines.md file. <br>
-**Back to Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
+**Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
+**Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
 
 ---
+
 ### [BYEPASSHUB GOOGLE DOC UPDATED NOV 25 (v3)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 
   This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com lnks. <br>
