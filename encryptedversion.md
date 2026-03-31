@@ -2,7 +2,7 @@
 ## If you like this list, make sure to star this repository!
 
 
-## *MAIN DOC FOUND [HERE](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) , THIS IS OUTDATED
+## MAIN DOC FOUND [HERE](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) , THIS IS OUTDATED
 ---
 This is a collection of lnks of proxies, playtime, AI, and apps. <br>
 
