@@ -1,5 +1,8 @@
 ## ByePassHub | Main Hub
 ## If you like this collection, make sure to star it! 460+🌟!
+[![GitHub stars](https://img.shields.io/github/stars/wea-f/ByePassHub?style=social)](https://github.com/wea-f/ByePassHub/stargazers)
+
+
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 
 FYI: **"Proxies" = "Unblockers"** <br> <br>
