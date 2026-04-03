@@ -6,7 +6,7 @@
 ---
 This is a collection of lnks of proxies, playtime, AI, and apps. <br>
 
-***Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
+**Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
 **Downloaders:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Downloaders.md) or go to the Downloaders.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
