@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated March 28
+# ByePassHub > Main Links | updated April 3
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -39,7 +39,7 @@ However, links added in previous updates sometimes **stops working** after a whi
 To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
   > For example: Dec 25 Links: <br>-->
 
-### January 4 & 19 & 26, 2026 - Added 400+ Links, includes 15+ NEW sites!!
+### January 4 & 19 & 26, 2026 and April 3 - Added 400+ Links, includes 15+ NEW sites!!
 - Link Dump: Scroll down to [here](#link-dump)
   - Consists of Selenite, gn math, some shadow, as well as some new sites that I found. 
 
