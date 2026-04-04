@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated April 3
+# ByePassHub > Main Links | updated April 4
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -21,6 +21,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br>
 
 **Announcements:**
+- April 4 - Added 90+ Links!
 - April 3 - Sorted whole link dump and added a bunch of links (Itscharged)
 
 <!--
@@ -45,46 +46,50 @@ To find the newly added links in the update, **look for the heading that contain
 -->
 
 ### April 4. BIGGGG Update - Credits to @ItsCharged
+- Added 90+ Links, can be found under 2026-04-04
+- New [Twisted](#twisted) and [Petezah](#petezah) sites
 - Sorted link dump
-- Added 350+ Links, UPDATED + Working!
+- Added 350+ Links, UPDATED + Working! - Can be found under 2026-04-03
 
 <br>
 
 ## Shortcuts & Table of Contents:
-- [Norepted | YT video watcher with history hiding](#norepted--yt-video-watcher-with-history-hiding) | Status: Flourishing 💯
+- [Norepted | YT video watcher](#norepted--yt-video-watcher) | Status: Flourishing 💯
 - [Hypertabs | Web Browser](#hypertabs--web-browser) | Status: Flourishing 💯
 - [AI and Homework Solvers](#ai-and-homework-solvers) | Status: Varying 😬
-- [Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Status: Varying 😬
-- [Selenite | Gaming and Apps](#selenite--gaming-and-apps) | Status: Stable ✅
-- [Rammerhead | Chrome like proxy](#rammerhead--chrome-like-proxy) | Status: Stable ✅
-- [Utopia | Proxy, Games & AI !!ADS!!](#utopia--proxy-games--ai-ads) | Status: Varying 😬
-- [Truffled | It just works](#truffled--it-just-works) | Status: Stable ✅
-- [Space | Servers in space (not really)](#space--servers-in-space-not-really) | Status: Stable ✅
-- [DayDreamX | (very) Customisable browser](#daydreamx--very-customisable-browser) | Status: Stable ✅
+- [Proxy Discord Servers](#proxy-discord-servers) | Status: Flourishing 💯
+- [Selenite | Gaming and Apps](#selenite--gaming-and-apps) | Status: Flourishing 💯
+- [Rammerhead | Chrome like proxy](#rammerhead--chrome-like-proxy) | Status: Flourishing 💯
+- [Utopia | Proxy, Games & AI](#utopia--proxy-games--ai) | Status: Varying 😬 | Has Ads
+- [Truffled](#truffled) | Status: Flourishing 💯
+- [Space](#space) | Status: Stable ✅
+- [DayDreamX](#daydreamx) | Status: Stable ✅
 - [Duckmath | Performance Games](#duckmath--performance-games) | Status: Flourishing 💯
 - [Galaxy v6 | Dark OS](#galaxy-v6--dark-os) | Status: Varying 😬
-- [Infamous | Aio King !!ADS!!](#infamous--aio-king-ads) | Status: Stable ✅
-- [Endis | Can do everythings !!ADS!!](#endis--can-do-everythings-ads) | Status: Varying 😬
-- [Study Hub | Still lacking !!ADS!!](#study-hub--still-lacking-ads) | Status: Varying 😬
-- [Lucide | ...has good AI !!ADS!!](#lucide--has-good-ai-ads) | Status: Stable ✅
-- [VOID | All the tools !!ADS!!](#void--all-the-tools-ads) | Status: Stable ✅
+- [Infamous | Aio King](#infamous--aio-king) | Status: Stable ✅ | Has Ads
+- [Endis | Can do everythings](#endis--can-do-everythings-ads) | Status: Varying 😬 | Has Ads
+- [Study Hub](#study-hub) | Status: Varying 😬 | Has Ads
+- [Lucide | Good AI](#lucide--good-ai) | Status: Stable ✅ | Has Ads
+- [VOID | All the tools](#void--all-the-tools-ads) | Status: Stable ✅ | Has Ads
 - [Lunar v2 | Super simple browser](#lunar-v2--super-simple-browser) | Status: Stable ✅
 - [TGLSC | More apps then the app store](#tglsc--more-apps-then-the-app-store) | Status: Stable ✅
-- [Quasar | Basic.](#quasar--basic) | Status: Stable ✅
+- [Quasar](#quasar) | Status: Stable ✅
 - [Awperator | All in one](#awperator--all-in-one) | Status: Stable ✅
-- [Luminal | an OS](#luminal--an-os) | Status: Varying 😬
-- [Shadow v3 | i live in the shadows](#shadow-v3--i-live-in-the-shadows) | Status: Varying 😬
+- [Luminal](#luminalos) | Status: Varying 😬
+- [Shadow v3](#shadow-v3) | Status: Varying 😬
 - [Vapor | a lot of games](#vapor--a-lot-of-games) | Status: Varying 😬
-- [dogeub | Very clean](#dogeub--very-clean) | Status: Stable ✅
+- [dogeub | Very clean](#dogeub--very-clean) | Status: 
 - [Rosin | Multi Country](#rosin--multi-country) | Status: Stable ✅
-- [Noblocc | Insanely stable](#noblocc--insanely-stable) | Status: Flourishing 💯
-- [Fern | is a proxy.](#fern--is-a-proxy) | Status: Flourishing 💯
+- [Noblocc | Insanely stable](#noblocc--insanely-stable) | Status: Stable ✅
+- [Fern](#fern) | Status: Flourishing 💯
+- [Twisted](#twisted) | Status: Stable ✅
+- [Petezah](#petezah) | Status: Stable ✅
 
 ---
 
 ## website title | what it contains | any note if needed
 
-### Norepted | YT video watcher with history hiding
+### Norepted | YT video watcher
 #### Status: Flourishing 💯
 https://norepted.netlify.app/ <br>
 https://norepted-delta.vercel.app/ <br>
@@ -125,6 +130,9 @@ https://sdk.vercel.ai/ <br>
 https://copilot.microsoft.com/?showconv=1 <br>
 https://tutorly.ai/ <br>
 https://qrcode-ai.com/ <br>
+**Google AI Mode:**
+1. Go to https://google.com and click on AI Mode button on the search bar.
+2. If blocked, you can go to https://google.hk.
 ##### ChatGPT clones
 https://talkai.info/chat <br>
 ##### These ones you need to sign up
@@ -213,6 +221,29 @@ https://benrogo.net/linkies <br>
 
 ### Selenite | Gaming and Apps
 #### Status: Stable ✅
+**📅 2026-04-04** <br>
+https://highschoolcalculus.centromariapolis.cl/ <br>
+https://mit-technology.comaschitech.com/ <br>
+https://nepal.greaternepal.con.np/ <br>
+https://chemistry.audio.jerkface/ <br>
+https://finance-calculator.monedital.cl/ <br>
+https://ap-chemistry.seba.cl/ <br>
+https://apcalculus.cmr.com.ar/ <br>
+https://highschooling.axsetubal.pt/ <br>
+https://offensive-asian.mysaol.com/ <br>
+https://highschoolcalculus.gyalsanglama.com.np/ <br>
+https://highschoolcalculus.gyalsanglama.com.np/ <br>
+https://akane-the-femboy.sangguru.id/ <br>
+https://study.englishbridalcouture.com/ <br>
+https://breadstart12a.vlad.md/ <br>
+https://donate.remiosenifoundation.org/ <br>
+https://hihihihihihihihihihihihihihhihi.examprepare.help/ <br>
+http://theater.attending.wisdom.zoology.algebra.tt-engineering.bz/ <br>
+http://backpack.science.teacher.student.counselor.elefante.cl/ <br>
+http://spelling.extracurricular.history.algebra.anatomy.mine.bz/ <br>
+https://hihihihihihihihihihihihihihhihi.examprepare.help/ <br>
+https://learn.rossco.uk/ <br> <br>
+**📅 2026-04-03** <br>
 https://french.jtlanguage.com/ <br>
 https://spanish.jtlanguage.com/ <br>
 https://textbooks.jtlanguage.com/ <br>
@@ -227,8 +258,22 @@ https://robotics-textbook.eclipsecastellon.com/ <br>
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
 ### Rammerhead | Chrome like proxy
-#### Status: Stable ✅
-Rammerhead features a subscription model that will slightly affect your expirience (speed only).
+##### Status: Flourishing 💯
+> [!WARNING}
+> Common Issue: Searching something up results in it asking you to do an infinite CAPTCHA.
+**📅 2026-04-04** <br>
+https://rummer.iei---trumpet-0001.alyaf.com/ <br>
+https://rummer.iei---trumpet-0002.alyaf.com/ <br>
+https://dontgoon.sanguine.space/ <br>
+https://scrsa.spy.moe/ <br>
+https://rammer.nana.animalscience.ir/ <br>
+https://rammer.nana.alienspeaking.com/ <br>
+https://zucic.fit-tw.com/ <br>
+https://rummer.iei---trumpet-0004.dinprima.ro/ <br>
+https://rummer.iei---trumpet-0005.dinprima.ro/ <br>
+https://rummer.iei---trumpet-0003.dinprima.ro/ <br>
+
+**📅 2026-04-03** <br>
 https://saturn.tecnopoint.ru/ <br>
 https://rammer-nana.alyaf.com/ <br>
 https://rammer.nana.vpspure.cf/ <br>
@@ -250,8 +295,9 @@ https://netanyahu-is-a-fucking-bitch.thevideobay.org/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Utopia | Proxy, Games & AI !!ADS!!
-#### Status: Varying 😬
+### Utopia | Proxy, Games & AI
+#### Status: Varying 😬, Has Ads
+**📅 2026-04-03** <br>
 https://grandemass.rdddo.ru/ <br>
 https://xn--unup4y.baselinux.net/ <br>
 https://qowerschool.com/ <br>
@@ -260,8 +306,11 @@ https://utopia.remiosenifoundation.org/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Truffled | It just works
+### Truffled
 #### Status: Stable ✅
+**📅 2026-04-04** <br>
+https://damianbdayparty.bradyblood.com <br> <br>
+**📅 2026-04-03** <br>
 https://truf.ghadirfoods.com/ <br>
 https://truf.remiosenifoundation.org/ <br>
 https://truf.metropolitanstaffingsolutions.com/ <br>
@@ -291,8 +340,9 @@ https://bostoncollegeoftech.tvjumbleanswers.com/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Space | Servers in space (not really)
+### Space
 #### Status: Stable ✅
+**📅 2026-04-03** <br>
 https://area.forwardersoft.com/ <br>
 https://area.vm4construction.uk/ <br>
 https://planets.is-a.software.cdn.cloudflare.net/ <br>
@@ -303,8 +353,9 @@ https://study-with.b-cdn.net/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### DayDreamX | (very) Customisable browser
+### DayDreamX
 #### Status: Stable ✅
+**📅 2026-04-03** <br>
 https://thoughts.forwardersoft.com/ <br>
 https://thoughts.vm4construction.uk/ <br>
 https://pondering.is-a.software.cdn.cloudflare.net/ <br>
@@ -316,11 +367,15 @@ https://cdn.jsdelivr.net/gh/NightProxy/DD-Static/dist/index.svg <br>
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
 ### Duckmath | Performance Games
-#### Status: Flourishing 💯
+##### Status: Flourishing 💯
+**📅 2026-04-04** <br>
+https://practice.gbrgend.dns.navy/ <br>
+https://class-room.baselinux.net/ <br>
+https://gbrgend.dns.navy/ <br>
+https://vfbiewaenxc.erbilek.com.tr/ <br>
+https://periodic-table.techmax.hk/ <br> <br>
+**📅 2026-04-03** <br>
 http://duck.5.rykisbetterthanluca.free.nf/ <br>
-
-**📅 2026-04-03**
-
 https://duck.classroomcommunity.com <br>
 https://duck.classroom-community.com <br>
 https://duck.classroom.onl <br>
@@ -360,6 +415,7 @@ https://mathlessons.b-cdn.net <br>
 
 ### Galaxy v6 | Dark OS
 #### Status: Varying 😬
+**📅 2026-04-03** <br>
 https://granit.granit-union.ru <br>
 https://green.greenmilesev.com <br>
 https://hand.hand-und-herz.at <br>
@@ -379,18 +435,20 @@ https://food.gostiljerestoran.rs <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Infamous | Aio King !!ADS!!
+### Infamous | Aio King
 #### Status: Stable ✅
-Infamous features a lot of ads (pop under and pop up). Infamous will in the future feature a payed Subscription model that will affect your expirience.
+Infamous features a lot of ads (pop under and pop up). Infamous will in the future feature a payed Subscription model that will affect your experience. <br>
+**📅 2026-04-03** <br>
 https://st-math.b-cdn.net/ <br>
 https://gmail-google.b-cdn.net/ <br>
 https://google-doc.b-cdn.net/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Endis | Can do everythings !!ADS!!
+### Endis | Can do everythings
 #### Status: Varying 😬
 Endis is unusable without Ad blocker, as you will instantly get redirected to ad pages. Endis features a payed Subscription model that will affect your expirience.
+**📅 2026-04-03** <br>
 https://ac371r8r.ajh.quest.cdn.cloudflare.net/ <br>
 https://abilene.lunoluno.org/ <br>
 https://admin.admin.au.hehe.ajh.boats.cdn.cloudflare.net/ <br>
@@ -415,9 +473,10 @@ https://demo.au.144-217-77-9.plesk.page/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Study Hub | Still lacking !!ADS!!
+### Study Hub
 #### Status: Varying 😬
-StudyHub is unusable without Ad blocker, as you will instantly get redirected to ad page. StudyHub isn't ideal for Apps, Games etc. as it doesn't have any (even tho advertised) or has little selection.
+StudyHub is unusable without Ad blocker, as you will instantly get redirected to ad page. StudyHub isn't ideal for Apps, Games etc. as it doesn't have any.
+**📅 2026-04-03** <br>
 https://healthislife.peperepara.com/ <br>
 https://charts.xuchenart.com/ <br>
 https://magazine.bitmagazin.com/ <br>
@@ -435,7 +494,7 @@ https://rooms.marqenhotels.com/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Lucide | ...has good AI !!ADS!!
+### Lucide | Good AI
 #### Status: Stable ✅
 https://pub-bc82e2ed41754dc4b80c6d83a173f04b.r2.dev/index.html#/ <br>
 https://main.dh7legjxmt1f4.amplifyapp.com/ <br>
@@ -443,9 +502,10 @@ https://andrewdavidsonphotography.com/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### VOID | All the tools !!ADS!!
+### VOID | All the tools
 #### Status: Stable ✅
-Void has ADS (2nd tab ads, Popup). Void provides a subscription based model, that has effect on the user expirience. Good to know: Void has an Subscription based model, that is for schools and prevents students from using proxys etc. if your school buys the cheaper model of voids protection you can bypass this by buying void pro for yourself (lmao no ad)
+Void has ADS (2nd tab ads, Popup). Void has an Subscription based model, that is for schools and prevents students from using proxys etc. if your school buys the cheaper model of voids protection you can bypass this by buying void pro for yourself
+**📅 2026-04-03** <br>
 https://kym.sulevkivastik.ee/?/ <br>
 https://qjqkq.reasonman.com/?/ <br>
 https://esolr.imagetemplate.com/?/ <br>
@@ -462,7 +522,7 @@ https://boardofeducation.xn--s6-kta.si/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Lunar v2 | Super simple browser
+### Lunar v2
 #### Status: Stable ✅
 https://highschoolacademy.online/ <br>
 https://lunarphysics.adcsurkhet.org.np/ <br>
@@ -484,7 +544,7 @@ https://auto.dinprima.ro/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Quasar | Basic.
+### Quasar
 #### Status: Stable ✅
 https://p-nationontop.3bearconsulting.com <br>
 https://grandemass.danfarm.ru <br>
@@ -497,6 +557,7 @@ https://craftingwithmimi.com/ <br>
 
 ### Awperator | All in one
 #### Status: Stable ✅
+**📅 2026-04-03** <br>
 https://useawp.developer.li/ <br>
 https://useawp.net/ <br>
 https://useawp.org/ <br>
@@ -519,14 +580,21 @@ https://paw.roadrunners.ca/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Luminal | an OS
+### LuminalOS
 #### Status: Varying 😬
 https://luminal.lol/ <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Shadow v3 | i live in the shadows
+### Shadow v3
 #### Status: Varying 😬
+**📅 2026-04-04** <br>
+https://signals.b-cdn.net/ <br>
+https://biologia.b-cdn.net/ <br>
+https://chorus.b-cdn.net/ <br>
+https://sciency.b-cdn.net/ <br>
+https://rainy.b-cdn.net/ <br> <br>
+**📅 2026-04-03** <br>
 https://lunarwriting.laciudadcomotexto.cl/ <br>
 https://maxgeo.missiongreenway.org/ <br>
 https://megareading.missiongreenway.org/ <br>
@@ -541,7 +609,13 @@ https://stellarcs.klccc.co.uk/ <br>
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
 ### Vapor | a lot of games
-#### Status: Varying 😬
+##### Status: Varying 😬
+**📅 2026-04-04** <br>
+https://login.ag-l.net/ <br>
+https://biology-homewok.b-cdn.net/ <br>
+https://script.google.com/macros/s/AKfycbxFgc6eMlC97epFZSuIWDjGvJ-q--hrqPJB_KrFIDazL1iKDfoosQ2w_5jWOxLMi5HndA/exec <br>
+https://script.google.com/macros/s/AKfycby0904KOR73LkC1iymAOSjOpkLfuDLfvaTvICEgc78AsPofM4qn2e-3Y4UA_5prDTFhpQ/exec <br><br>
+**📅 2026-04-03** <br>
 https://ixlwork.storage.googleapis.com/index.html <br>
 https://lights-peed.space/ <br>
 https://hellothereworld.storage.googleapis.com/index.html <br>
@@ -558,7 +632,7 @@ https://storage.googleapis.com/canvas-lms/index.html <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Rosin | Multi Country
+### Rosin
 #### Status: Stable ✅
 https://damn.echofx.com/ <br>
 https://hyper.echofx.com/ <br>
@@ -570,6 +644,7 @@ https://zones.echofx.com/ <br>
 
 ### Noblocc | Insanely stable
 #### Status: Flourishing 💯
+**📅 2026-04-03** <br>
 https://noblo.cc/ <br>
 https://noblocc.uk/ <br>
 https://noblocc.co.uk/ <br>
@@ -586,8 +661,9 @@ https://vividdarkness.uk <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
 
-### Fern | is a proxy.
+### Fern
 #### Status: Flourishing 💯
+**📅 2026-04-03** <br>
 https://storage.googleapis.com/fernisbest/index.html <br>
 https://talesfiction.com <br>
 https://supermath.site <br>
@@ -615,5 +691,27 @@ https://lakecountrybiblechurch.org/ <br>
 https://life-in-motion.org <br>
 https://ps279.org <br>
 https://centexvolleyball.org <br>
+
+**🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
+
+### Twisted
+#### Status: Stable ✅
+**📅 2026-04-04** <br>
+https://whatlearning.dinprima.ro/ <br>
+https://wasd.highdesertcoders.com/ <br>
+https://wasd.hotelconsuladoinn.com/ <br>
+https://biology-tutors.riesgocrediticio.com/ <br>
+https://college.vandrekalenderen.dk/ <br>
+https://nasaworks.spacetechnology.net/ <br>
+https://elop.kora.cl/ <br>
+https://i-love-frogs-and.minecraft.pe/ <br>
+https://www.securly.com.chickenkiller.com/ <br>
+
+**🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
+
+### Petezah
+#### Status: Stable ✅
+https://cdn.jsdelivr.net/gh/pineapple-petezah/homework/main.svg <br>
+https://zxgzmbkfogafegoaenus.supabase.co/storage/v1/object/public/test/PETEZAH/main.svg <br>
 
 **🔼 Back to [top](#shortcuts--table-of-contents)** 🔼
