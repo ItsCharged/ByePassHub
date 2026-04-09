@@ -62,7 +62,8 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 💯 Flourishing — Very active, lots of working links
 - ✅ Stable — Reliable and working
 - 😬 Varying — Hit or miss, some links may be down
-> ⚠️ Sites marked **Has Ads** may show pop-ups or fake buttons, don't click on them!
+> [!WARNING]
+> ⚠️ Some links may contain ads or popups. Never enter personal information on proxy sites. Links are not guaranteed to be safe or functional.
 ---
 > ### 🌟 New here? Start with these (or scroll down to explore on your own):
 > | Site | Description |
