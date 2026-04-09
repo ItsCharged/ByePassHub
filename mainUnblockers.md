@@ -312,8 +312,9 @@ http://spelling.extracurricular.history.algebra.anatomy.mine.bz/ <br>
 
 ### Rammerhead | Chrome like proxy
 ##### Status: Flourishing 💯
-> [!WARNING}
+> [!WARNING]
 > Common Issue: Searching something up results in it asking you to do an infinite CAPTCHA.
+<br>
 Lasted Updated: **📅 2026-04-05** <br>
 https://play.jimmyqrg.com/ <br>
 https://wiki.schooloqy.com/ <br>
