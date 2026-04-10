@@ -1,4 +1,4 @@
-# ByePassHub > Shortcuts Programs | updated March 5
+# ByePassHub > Shortcuts Programs | updated April 9
 ## If you like this list, make sure to star it!
 ### This is a collection of programs made in Shortcuts! 
 **Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
@@ -14,4 +14,4 @@
 [Open mutiple links](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You dont have to remove any text, since it automatically filters for links. <br>
 [Cards against school](https://www.icloud.com/shortcuts/57fc3d81547f4e8bbe27c7313aaa3b64) - A recreation of cards against humanity. Requires 3 or more plays, and 1 ipad to pass around. Thousands of white cards and hundreds of black cards. <br>
 [Replacement cipher](https://www.icloud.com/shortcuts/57fc3d81547f4e8bbe27c7313aaa3b64) -A very simple cipher. Requiring a key that is 26 symbol letters long and doesnt repest letters. <br>
-[Web searching without history](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You can search google or open urls without it being logged to history. Might still be logged in GoGaurdian or such, testing needed. <br>
+[Private Searching](https://www.icloud.com/shortcuts/f785837997574424a0e4d42cd94929e3) - Does what it says on the tin. You can search google or open urls without it being logged to history. Might still be logged in GoGaurdian or such, testing needed. <br>
